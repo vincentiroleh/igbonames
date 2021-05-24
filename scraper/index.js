@@ -4,6 +4,8 @@ const fs = require('fs');
 const cheerio = require('cheerio');
 const request = require('request-promise');
 
+const BoysModel = require('../app/boysModel');
+
 const BoysArr = [];
 const GirlsArr = [];
 
