@@ -6,7 +6,7 @@ This API exposes over 300+ Igbo Names for Boys and Girls with their pet names an
 
 ## API URL
 
-To try it out, check out this link https://igbo-names-api.azurewebsites.net
+To try it out, check out this link https://aha-ndi-igbo.azurewebsites.net
 
 ## Getting Started
 
